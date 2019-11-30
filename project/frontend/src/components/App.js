@@ -10,7 +10,6 @@ export default class App extends Component{
     render(){
         return (
             <Router></Router>
-            // <h1>asdasd</h1>
         );
     }
 }
